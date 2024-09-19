@@ -3,15 +3,15 @@
 #bucket    = "awsnareshitbucketname"
 bucket = {
   bucket1 = {
-    bucket_name = "myjpcvgghv"
+    bucket_name = "myjpcvdjvjvjvrrjvrjrjlrvcnfngghv"
 
   },
   bucket2 = {
-    bucket_name = "myjpc2hhgghh"
+    bucket_name = "myjpcfjbvjnvklrgnkrlkrrgrrg2hhgghh"
 
   },
   bucket3 = {
-    bucket_name = "myjpc3ububbbub"
+    bucket_name = "myjpc3kfjewjkfwfwhfkefhklfifububbbub"
 
   }
 }
